@@ -17,7 +17,10 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 <img width="515" height="159" alt="image" src="https://github.com/user-attachments/assets/80c29abb-f7e1-4610-97df-081392e2c2e5" />
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 Research Methodology 🍪🍧🍦
+
+<img width="518" height="238" alt="image" src="https://github.com/user-attachments/assets/d0e2ab47-4983-435f-9628-2dd11ea67b4f" />
+
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
