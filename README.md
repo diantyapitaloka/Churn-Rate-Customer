@@ -24,6 +24,9 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 
 ## 🍦🍧🍪 Female in the age range of 46-55 have a high churn from bank 🍪🍧🍦
 
+<img width="383" height="221" alt="image" src="https://github.com/user-attachments/assets/cbeea8b8-ffff-4a04-bf1c-330a4e772d6e" />
+
+
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
