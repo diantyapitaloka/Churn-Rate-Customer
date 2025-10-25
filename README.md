@@ -27,6 +27,8 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 <img width="383" height="221" alt="image" src="https://github.com/user-attachments/assets/cbeea8b8-ffff-4a04-bf1c-330a4e772d6e" />
 
 
+<img width="185" height="284" alt="image" src="https://github.com/user-attachments/assets/57f597ab-80df-4e4f-a36b-bb1663407584" />
+
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
