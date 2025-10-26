@@ -29,7 +29,7 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 
 <img width="185" height="284" alt="image" src="https://github.com/user-attachments/assets/57f597ab-80df-4e4f-a36b-bb1663407584" />
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 More Stay Customers Than Churned Customers Across Tenure 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
