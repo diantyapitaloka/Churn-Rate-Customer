@@ -31,6 +31,9 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 
 ## 🍦🍧🍪 More Stay Customers Than Churned Customers Across Tenure 🍪🍧🍦
 
+Longer tenure is strongly correlated with higher customer retention, suggesting that customers who have been with the company longer are more loyal and less likely to churn.
+
+
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
