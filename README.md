@@ -33,6 +33,8 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 
 Longer tenure is strongly correlated with higher customer retention, suggesting that customers who have been with the company longer are more loyal and less likely to churn.
 
+<img width="428" height="211" alt="image" src="https://github.com/user-attachments/assets/c78bbdbf-3a09-4785-99c3-a6c91e69db47" />
+
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
