@@ -14,6 +14,8 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 
 ## 🍦🍧🍪 Project Goals 🍪🍧🍦
 
+Here is the objectives below :
+
 <img width="515" height="159" alt="image" src="https://github.com/user-attachments/assets/80c29abb-f7e1-4610-97df-081392e2c2e5" />
 
 
