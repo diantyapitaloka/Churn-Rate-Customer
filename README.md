@@ -40,6 +40,9 @@ Longer tenure is strongly correlated with higher customer retention, suggesting 
 
 ## 🍦🍧🍪 Customers who churn have a lower balance distribution compared to those who stay 🍪🍧🍦
 
+<img width="667" height="565" alt="image" src="https://github.com/user-attachments/assets/11463232-2e25-494f-915e-8db750aaf484" />
+
+
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
