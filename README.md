@@ -43,6 +43,9 @@ Longer tenure is strongly correlated with higher customer retention, suggesting 
 <img width="667" height="565" alt="image" src="https://github.com/user-attachments/assets/11463232-2e25-494f-915e-8db750aaf484" />
 
 
+<img width="516" height="383" alt="image" src="https://github.com/user-attachments/assets/2bd60841-41e0-49fa-8cee-16559819cb86" />
+
+
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
