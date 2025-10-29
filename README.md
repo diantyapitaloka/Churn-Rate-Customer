@@ -49,7 +49,7 @@ While churn customers have a slightly higher average balance, stay customers sho
 
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 Customers with no credit cards tend to have customer churn 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
