@@ -58,6 +58,8 @@ Customers with credit cards are significantly more likely to stay, while those w
 
 Active customers are more likely to stay, while inactive customers have a higher churn rate. Encouraging inactive customers to become active could help reduce churn and improve retention.
 
+<img width="517" height="440" alt="image" src="https://github.com/user-attachments/assets/6987c65f-af4e-4f38-8079-9d43bce804da" />
+
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
