@@ -61,7 +61,7 @@ Active customers are more likely to stay, while inactive customers have a higher
 <img width="517" height="440" alt="image" src="https://github.com/user-attachments/assets/6987c65f-af4e-4f38-8079-9d43bce804da" />
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 Average estimated salary does not significantly influence customer churn 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
