@@ -63,6 +63,9 @@ Active customers are more likely to stay, while inactive customers have a higher
 
 ## 🍦🍧🍪 Average estimated salary does not significantly influence customer churn 🍪🍧🍦
 
+Customers with slightly higher salaries tend to stay, but salary alone is not a strong predictor of churn due to similar salary distributions. Other factors should be analyzed for better understanding of churn.
+
+
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
