@@ -54,7 +54,7 @@ Customers with credit cards are significantly more likely to stay, while those w
 
 <img width="677" height="579" alt="image" src="https://github.com/user-attachments/assets/abd498ff-df68-4e34-bb6b-2e204f2e0612" />
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 Inactive members are much more likely to churn 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
