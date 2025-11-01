@@ -70,6 +70,8 @@ Customers with slightly higher salaries tend to stay, but salary alone is not a 
 
 
 ## 🍦🍧🍪 There is no significant impact of credit score on customer churn 🍪🍧🍦
+Both groups have overlapping distributions, indicating that other factors besides credit score also play a role in customer retention or churn.
+
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
