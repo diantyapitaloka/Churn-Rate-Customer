@@ -69,7 +69,7 @@ Customers with slightly higher salaries tend to stay, but salary alone is not a 
 
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 There is no significant impact of credit score on customer churn 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
