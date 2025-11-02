@@ -74,7 +74,7 @@ Both groups have overlapping distributions, indicating that other factors beside
 <img width="708" height="599" alt="image" src="https://github.com/user-attachments/assets/eafcdc8e-8648-4d02-9b2a-6ababca16372" />
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 The number of products owned does not have a significant effect on customer churn 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
