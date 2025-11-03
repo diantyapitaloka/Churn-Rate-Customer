@@ -78,6 +78,8 @@ Both groups have overlapping distributions, indicating that other factors beside
 
 The number of products is a weak predictor of churn, with a correlation of -0.073 indicating a very weak negative relationship between product count and churn status. In other words, product ownership has little significant impact on whether a customer churns.
 
+<img width="932" height="548" alt="image" src="https://github.com/user-attachments/assets/0d486202-7488-4c88-9f88-382fb9f24731" />
+
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
