@@ -81,7 +81,7 @@ The number of products is a weak predictor of churn, with a correlation of -0.07
 <img width="932" height="548" alt="image" src="https://github.com/user-attachments/assets/0d486202-7488-4c88-9f88-382fb9f24731" />
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 There are four variables that strongly influence customer churn in the bank 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
