@@ -86,7 +86,7 @@ The number of products is a weak predictor of churn, with a correlation of -0.07
 <img width="539" height="216" alt="image" src="https://github.com/user-attachments/assets/395d9fbd-54d4-40a7-a256-3c0962168f87" />
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 We categorized the predicted churn probabilities into three distinct risk levels  🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 
