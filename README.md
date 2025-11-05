@@ -91,7 +91,13 @@ The number of products is a weak predictor of churn, with a correlation of -0.07
 The majority of customers (54.6%) are at low risk of churn, indicating good loyalty. However, 28.6% are at medium risk and 16.9% at high risk, requiring special attention.
 Retention strategies should focus on high-risk customers and preventing medium-risk customers from churning to minimize overall churn.
 
+<img width="570" height="164" alt="image" src="https://github.com/user-attachments/assets/dd77c36a-b480-4509-939b-95b7a79ba739" />
 
+
+## 🍦🍧🍪 C 🍪🍧🍦
+
+## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 C 🍪🍧🍦
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 
