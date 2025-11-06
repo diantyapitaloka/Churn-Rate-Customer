@@ -95,7 +95,7 @@ Retention strategies should focus on high-risk customers and preventing medium-r
 <img width="570" height="164" alt="image" src="https://github.com/user-attachments/assets/dd77c36a-b480-4509-939b-95b7a79ba739" />
 
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 How to reduce churn rate based on analysis 🍪🍧🍦
 
 ## 🍦🍧🍪 C 🍪🍧🍦
 ## 🍦🍧🍪 C 🍪🍧🍦
