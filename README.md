@@ -104,7 +104,7 @@ Retention strategies should focus on high-risk customers and preventing medium-r
 
 <img width="481" height="206" alt="image" src="https://github.com/user-attachments/assets/b64a2c3e-ce35-4d74-9a72-1b0ac4f0abaa" />
 
-## 🍦🍧🍪 C 🍪🍧🍦
+## 🍦🍧🍪 Risk Level 🍪🍧🍦
 ## 🍦🍧🍪 C 🍪🍧🍦
 
 
