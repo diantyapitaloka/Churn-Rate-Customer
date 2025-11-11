@@ -43,6 +43,8 @@ Here is the objectives below :
 
 ## 🍦🍧🍪 Customers who churn have a lower balance distribution compared to those who stay 🍪🍧🍦
 
+Here is the objectives below :
+
 <img width="667" height="565" alt="image" src="https://github.com/user-attachments/assets/11463232-2e25-494f-915e-8db750aaf484" />
 
 
