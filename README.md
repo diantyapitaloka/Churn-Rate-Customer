@@ -57,6 +57,8 @@ While churn customers have a slightly higher average balance, stay customers sho
 ## 🍦🍧🍪 Customers with no credit cards tend to have customer churn 🍪🍧🍦
 Customers with credit cards are significantly more likely to stay, while those without credit cards are more likely to churn.
 
+Here is the objectives below :
+
 <img width="677" height="579" alt="image" src="https://github.com/user-attachments/assets/abd498ff-df68-4e34-bb6b-2e204f2e0612" />
 
 ## 🍦🍧🍪 Inactive members are much more likely to churn 🍪🍧🍦
