@@ -119,10 +119,6 @@ Here is the objectives below :
 
 <img width="539" height="193" alt="image" src="https://github.com/user-attachments/assets/8d3e50bb-36a0-4da1-948a-3f05f7b8e21d" />
 
-## 🍦🍧🍪 Risk Level 🍪🍧🍦
-
-
-
 
 ## 🍦🍧🍪 Copyright 🍪🍧🍦
 By Diantya Pitaloka
