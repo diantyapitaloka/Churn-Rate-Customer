@@ -114,7 +114,9 @@ Here is the objectives below :
 <img width="481" height="206" alt="image" src="https://github.com/user-attachments/assets/b64a2c3e-ce35-4d74-9a72-1b0ac4f0abaa" />
 
 ## 🍦🍧🍪 Risk Level 🍪🍧🍦
+Risk level is a structured measure used to determine the seriousness or magnitude of a risk, based on a systematic evaluation of how likely the event is to occur and how significant its impact would be on objectives, operations, assets, people, finances, or reputation.
 
+In risk management, the purpose of determining a risk level is to enable organizations to prioritize risks, allocate resources efficiently, and decide what actions—such as mitigation, acceptance, transfer, or avoidance—should be taken.
 Here is the objectives below :
 
 <img width="539" height="193" alt="image" src="https://github.com/user-attachments/assets/8d3e50bb-36a0-4da1-948a-3f05f7b8e21d" />
