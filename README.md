@@ -21,6 +21,7 @@ Here is the objectives below :
 
 
 ## 🍦🍧🍪 Research Methodology 🍪🍧🍦
+Research methodology is the systematic framework or approach used to conduct a study, covering the overall strategy for collecting, analyzing, and interpreting data. It explains how the research will be carried out, including the methods, tools, and procedures chosen to answer the research questions or test hypotheses. A good research methodology ensures the study is reliable, valid, and scientifically sound by clearly outlining the design (qualitative, quantitative, or mixed), data collection techniques (such as surveys, interviews, or experiments), sampling methods, and data analysis approaches.
 Here is the objectives below :
 <img width="518" height="238" alt="image" src="https://github.com/user-attachments/assets/d0e2ab47-4983-435f-9628-2dd11ea67b4f" />
 
