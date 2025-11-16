@@ -108,6 +108,7 @@ Retention strategies should focus on high-risk customers and preventing medium-r
 
 
 ## 🍦🍧🍪 Targeting Key 🍪🍧🍦
+A targeting key is a specific variable, attribute, or criterion used to identify, filter, segment, or reach a particular target audience, customer group, or data subset. It acts as a key input in a targeting system—helping an organization decide who should receive a message, offer, product, service, or analysis.
 
 Here is the objectives below :
 
