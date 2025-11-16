@@ -13,6 +13,7 @@ The data, obtained from Kaggle, was processed and analyzed with Excel, Python, a
 
 
 ## 🍦🍧🍪 Project Goals 🍪🍧🍦
+Project goals are clear, specific statements that define what a project aims to achieve within a given timeframe, providing direction and measurable targets for the team. They translate the overall vision or business need into actionable outcomes, guiding decision-making, resource allocation, and performance evaluation throughout the project lifecycle. Effective project goals help ensure all stakeholders share the same understanding of success, reduce ambiguity, and serve as benchmarks to track progress and determine whether the project has met its intended purpose.
 
 Here is the objectives below :
 
