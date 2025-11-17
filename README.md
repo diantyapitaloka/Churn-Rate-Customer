@@ -44,6 +44,8 @@ Here is the objectives below :
 
 
 ## 🍦🍧🍪 Customers who churn have a lower balance distribution compared to those who stay 🍪🍧🍦
+While churn customers have a slightly higher average balance, stay customers show more balance variety, especially with a higher number of outliers at the top end. 
+
 
 Here is the objectives below :
 
@@ -52,7 +54,6 @@ Here is the objectives below :
 
 <img width="516" height="383" alt="image" src="https://github.com/user-attachments/assets/2bd60841-41e0-49fa-8cee-16559819cb86" />
 
-While churn customers have a slightly higher average balance, stay customers show more balance variety, especially with a higher number of outliers at the top end. 
 
 
 
