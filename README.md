@@ -28,6 +28,8 @@ Here is the objectives below :
 
 ## 🍦🍧🍪 Female in the age range of 46-55 have a high churn from bank 🍪🍧🍦
 
+Women aged 46–55 show a high churn rate in the bank, meaning many customers in this demographic are more likely to close their accounts or switch to competitors. This trend often reflects a combination of factors such as increased financial needs during mid-life transitions (e.g., supporting children’s education, preparing for retirement, or managing family expenses), higher expectations for personalized financial services, and sensitivity to fees or poor customer experience. As a result, if the bank does not provide strong value, tailored products, or consistent service quality, women in this age range tend to seek better alternatives, leading to an elevated churn rate.
+
 Here is the objectives below :
 
 <img width="383" height="221" alt="image" src="https://github.com/user-attachments/assets/cbeea8b8-ffff-4a04-bf1c-330a4e772d6e" />
