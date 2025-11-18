@@ -94,6 +94,9 @@ The number of products is a weak predictor of churn, with a correlation of -0.07
 
 
 ## 🍦🍧🍪 There are four variables that strongly influence customer churn in the bank 🍪🍧🍦
+
+There are four key variables that strongly influence customer churn in the bank: customer satisfaction, service usage level, financial product fit, and demographic or behavioral factors. Low satisfaction—often caused by poor service quality, slow issue resolution, or high fees—directly pushes customers to leave. Meanwhile, customers with low or declining service usage are more likely to disconnect because they feel the bank no longer meets their needs. A mismatch between the customer’s financial goals and the bank’s products, such as uncompetitive interest rates or limited digital features, also increases churn risk. Lastly, demographic and behavioral factors—such as age group, income stability, or changing life stages—shape customers’ expectations and can amplify churn when the bank fails to adapt offerings to their evolving needs.
+
 Here is the objectives below :
 
 <img width="539" height="216" alt="image" src="https://github.com/user-attachments/assets/395d9fbd-54d4-40a7-a256-3c0962168f87" />
