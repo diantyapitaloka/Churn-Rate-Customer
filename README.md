@@ -3,6 +3,7 @@
 - Research shows that increasing your retention rate by just 5% can boost your overall profits by anywhere from 25% to 95%. Since repeat customers already trust your quality, they are significantly more likely to try your high-margin seasonal specials.
 - Voluntary churn happens when a customer chooses a competitor, while involuntary churn often occurs due to technical issues like expired credit cards in your loyalty app. Distinguishing between the two allows you to fix "leaky" payment systems separately from improving your actual dessert recipes.
 - The hospitality and restaurant industry often sees higher churn rates (around 45%) due to inconsistent service or food quality. If a cookie is soft one day but overbaked the next, customers lose the "predictable joy" that drives repeat visits.
+- In 2026, a "churned" customer is often someone who felt your product wasn't worth sharing on social media. Designing visually stunning plating or unique shop interiors encourages customers to document their visit, turning a one-time snack into a recurring social event.
 
 ## 🍦🍧🍪 Executive Summary 🍪🍧🍦
 Bank operates branches in three countries : Germany, Spain, and France. Chief Marketing Officer complain that The Germany branch recorded a churn rate of 32,44%, substantially exceeding the industry median of 19% for financial industry as reported by What’s the Average Churn Rate by Industry? indicating a critical need for targeted retention strategies. Here is the objectives below :
