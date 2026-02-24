@@ -1,4 +1,5 @@
 ## 🍦🍧🍪 Churn-Rate-Customer 🍪🍧🍦
+- To calculate your monthly churn, divide the number of customers who didn't return by the total you had at the start of the month. Multiplying this by 100 gives you a percentage that serves as a vital "health check" for your brand's popularity.
 
 ## 🍦🍧🍪 Executive Summary 🍪🍧🍦
 Bank operates branches in three countries : Germany, Spain, and France. Chief Marketing Officer complain that The Germany branch recorded a churn rate of 32,44%, substantially exceeding the industry median of 19% for financial industry as reported by What’s the Average Churn Rate by Industry? indicating a critical need for targeted retention strategies. Here is the objectives below :
