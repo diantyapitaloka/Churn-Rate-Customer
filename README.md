@@ -5,6 +5,7 @@
 - The hospitality and restaurant industry often sees higher churn rates (around 45%) due to inconsistent service or food quality. If a cookie is soft one day but overbaked the next, customers lose the "predictable joy" that drives repeat visits.
 - In 2026, a "churned" customer is often someone who felt your product wasn't worth sharing on social media. Designing visually stunning plating or unique shop interiors encourages customers to document their visit, turning a one-time snack into a recurring social event.
 - By using modern POS (Point of Sale) data, you can identify "at-risk" customers who haven't visited in their usual 14-day window. Sending an automated "We miss you" coupon on day 15 can effectively "re-freeze" a relationship before it melts away completely.
+- Simple "buy 10, get 1 free" cards are being replaced by tiered apps that offer exclusive "tasting events" for top-tier members. When customers feel they are "leveling up" toward a VIP status, the psychological cost of switching to a different shop becomes much higher.
 
 ## 🍦🍧🍪 Executive Summary 🍪🍧🍦
 Bank operates branches in three countries : Germany, Spain, and France. Chief Marketing Officer complain that The Germany branch recorded a churn rate of 32,44%, substantially exceeding the industry median of 19% for financial industry as reported by What’s the Average Churn Rate by Industry? indicating a critical need for targeted retention strategies. Here is the objectives below :
