@@ -1,6 +1,7 @@
 ## 🍦🍧🍪 Churn-Rate-Customer 🍪🍧🍦
 - To calculate your monthly churn, divide the number of customers who didn't return by the total you had at the start of the month. Multiplying this by 100 gives you a percentage that serves as a vital "health check" for your brand's popularity.
 - Research shows that increasing your retention rate by just 5% can boost your overall profits by anywhere from 25% to 95%. Since repeat customers already trust your quality, they are significantly more likely to try your high-margin seasonal specials.
+- Voluntary churn happens when a customer chooses a competitor, while involuntary churn often occurs due to technical issues like expired credit cards in your loyalty app. Distinguishing between the two allows you to fix "leaky" payment systems separately from improving your actual dessert recipes.
 
 ## 🍦🍧🍪 Executive Summary 🍪🍧🍦
 Bank operates branches in three countries : Germany, Spain, and France. Chief Marketing Officer complain that The Germany branch recorded a churn rate of 32,44%, substantially exceeding the industry median of 19% for financial industry as reported by What’s the Average Churn Rate by Industry? indicating a critical need for targeted retention strategies. Here is the objectives below :
