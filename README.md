@@ -1,5 +1,6 @@
 ## 🍦🍧🍪 Churn-Rate-Customer 🍪🍧🍦
 - To calculate your monthly churn, divide the number of customers who didn't return by the total you had at the start of the month. Multiplying this by 100 gives you a percentage that serves as a vital "health check" for your brand's popularity.
+- The "Secret Menu" Inner Circle: Create a "hidden" menu accessible only via a specific keyword found in your email newsletter or app. This rewards your most engaged fans with a sense of exclusivity and "insider" status that makes them feel like part of the family.
 - The "Golden Scoop" Birthday Surprise: Automate a special "treat on us" voucher that lands in their inbox three days before their birthday. This creates a celebratory association with your brand, ensuring you are their first stop during their birth-month festivities.
 - To calculate your monthly churn, divide the number of customers who didn't return by the total you had at the start of the month. Multiplying this by 100 gives you a percentage that serves as a vital "health check" for your brand's popularity.
 - The "Missed Milestone" Gesture: Use your POS data to identify customers who have hit a 6-month "anniversary" since their first visit and send a "half-year" thank you note. A simple acknowledgment of their history with you can reignite the spark for someone who may have started to drift away.
