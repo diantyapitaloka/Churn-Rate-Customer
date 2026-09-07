@@ -61,7 +61,7 @@
 - Simple "buy 10, get 1 free" cards are being replaced by tiered apps that offer exclusive "tasting events" for top-tier members. When customers feel they are "leveling up" toward a VIP status, the psychological cost of switching to a different shop becomes much higher.
 
 ## 🍦🍧🍪 Executive Summary 🍪🍧🍦
-Bank operates branches in three countries : Germany, Spain, and France. Chief Marketing Officer complain that The Germany branch recorded a churn rate of 32,44%, substantially exceeding the industry median of 19% for financial industry as reported by What’s the Average Churn Rate by Industry? indicating a critical need for targeted retention strategies. Here is the objectives below :
+Bank operates branches in three countries : Germany, Spain, and France. Chief Marketing Officer complain that The Germany branch recorded a churn rate of 32,44%, substantially exceeding the industry median of 19% for financial industry as reported by What’s the Average Churn Rate by Industry? indicating a critical need for targeted retention strategies. Here is the objective below :
 
 <img width="237" height="152" alt="image" src="https://github.com/user-attachments/assets/40240d49-72da-470d-8df6-350eb5dedea6" />
 
